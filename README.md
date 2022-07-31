@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehmetegeacican
-- 👀 I’m interested in Cloud Computing, Data Science, AI and DevOps
-- 🌱 I’m currently learning Docker
+- 👀 I’m interested in Web and Mobile Development
+- 🌱 I’m currently learning and improving Dotnet, Javascript, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
