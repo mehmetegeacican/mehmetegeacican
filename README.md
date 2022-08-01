@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning and improving Dotnet, Javascript, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <p align="left">
-<a href="https://linkedin.com/in/mehmet-ege-acican" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetegeacican" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehmet-ege-acıcan-b218a217b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetegeacican" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/meaci2011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehmetegeacican" height="30" width="40" /></a>
 </p>
 
