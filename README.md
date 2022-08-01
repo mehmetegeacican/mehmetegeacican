@@ -2,11 +2,10 @@
 <!-- LINKS -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m @mehmetegeacican
-  <hr/>
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="450px"/>
 </h1>
-<!-- ABOUT -->
---- 
+<!-- ABOUT --> 
+
+---
 
 ### :man_technologist: About Me :
 - 👀 I’m interested in Web and Mobile Development
@@ -46,6 +45,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetegeacican&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### Contact :
+
+<table>
+    <tbody>
+        <tr>
+            <td><a href="https://www.linkedin.com/in/zluvsand/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+        </tr>
+    </tbody>
+</table>
 
 <!---
 mehmetegeacican/mehmetegeacican is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
