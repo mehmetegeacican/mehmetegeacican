@@ -9,7 +9,7 @@
 
 ### :man_technologist: About Me :
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning and improving Dotnet, Javascript, 
+- 🌱 I’m currently learning about Design Patterns, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <p align="left">
 <a href="https://linkedin.com/in/mehmet-ege-acıcan-b218a217b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetegeacican" height="30" width="40" /></a>
