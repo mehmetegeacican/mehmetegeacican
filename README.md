@@ -42,10 +42,17 @@
 ---
 
 ### 🔥 Stats:
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetegeacican&show_icons=true&theme=dark" style="height: 45%; width: 55%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetegeacican&layout=compact&show_icons=true&theme=dark" style="height: 45%; width: 40%;"/>
+<div width="100%" align="center">
+    <span align="left">
+        <img height=175 align="center"
+            src="https://github-readme-stats.vercel.app/api?username=mehmetegeacican&show_icons=true&theme=dark">
+    </span>
+    <span align="right">
+        <img height=175 align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetegeacican&layout=compact&show_icons=true&theme=dark" />
+    </span>
 </div>
+
 
 <!---
 mehmetegeacican/mehmetegeacican is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
