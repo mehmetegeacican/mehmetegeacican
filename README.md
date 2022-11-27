@@ -43,8 +43,8 @@
 
 ### 🔥 Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetegeacican&show_icons=true&theme=dark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetegeacican&layout=compact&show_icons=true&theme=dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetegeacican&show_icons=true&theme=dark" style="height: 45%; width: 55%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetegeacican&layout=compact&show_icons=true&theme=dark" style="height: 45%; width: 40%;"/>
 </div>
 
 <!---
