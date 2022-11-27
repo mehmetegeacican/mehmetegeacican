@@ -42,10 +42,9 @@
 ---
 
 ### 🔥 Stats:
-  <div> 
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetegeacican&show_icons=true&theme=dark" height="180" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetegeacican&layout=compact&show_icons=true&theme=dark" height="180" width="450" marginRight="0.2"/>
-  </div>
+
 <!---
 mehmetegeacican/mehmetegeacican is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
