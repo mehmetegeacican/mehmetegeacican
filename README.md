@@ -42,16 +42,7 @@
 ---
 
 ### 🔥 Stats:
-<div width="100%" align="center">
-    <span align="left">
-        <img height=175 align="center"
-            src="https://github-readme-stats.vercel.app/api?username=mehmetegeacican&show_icons=true&theme=dark">
-    </span>
-    <span align="right">
-        <img height=175 align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetegeacican&layout=compact&show_icons=true&theme=dark" />
-    </span>
-</div>
+
 
 
 <!---
