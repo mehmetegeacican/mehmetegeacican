@@ -42,6 +42,10 @@
 ---
 
 ### 🔥 Stats:
+![MEA's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetegeacican&theme=tokyonight&show_icons=true)
+### 💻 Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetegeacican&theme=tokyonight&exclude_repo=Basic-Data-Structures)](https://github.com/mehmetegeacican/github-readme-stats)
+
 
 
 
