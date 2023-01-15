@@ -42,9 +42,10 @@
 ---
 
 ### 🔥 Stats:
-![MEA's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetegeacican&theme=tokyonight&show_icons=true)
+![MEA's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetegeacican&theme=tokyonight)
 ### 💻 Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetegeacican&theme=tokyonight&exclude_repo=Basic-Data-Structures)](https://github.com/mehmetegeacican/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetegeacican&langs_count=6&theme=tokyonight)](https://github.com/mehmetegeacican/github-readme-stats)
+
 
 
 
