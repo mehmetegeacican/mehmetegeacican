@@ -18,7 +18,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,express,spring,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,express,python,spring,git,docker)](https://skillicons.dev)
   
 </div>
 
