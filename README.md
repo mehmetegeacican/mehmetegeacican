@@ -28,7 +28,7 @@
 
 <p align="center">
    <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetegeacican&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetegeacican&theme=tokyonight&rank_icon=github" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 ### 📜 Languages:
 <p align="center">
    <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetegeacican&langs_count=6&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetegeacican&langs_count=6&theme=tokyonight&layout=donut"/>
 </a>
 </p>
 
