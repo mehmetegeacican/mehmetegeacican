@@ -37,7 +37,7 @@
 ### 📜 Languages:
 <p align="center">
    <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetegeacican&langs_count=6&theme=tokyonight&layout=donut"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetegeacican&langs_count=7&theme=tokyonight&layout=donut"/>
 </a>
 </p>
 
