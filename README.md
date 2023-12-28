@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/mehmet-ege-acıcan-b218a217b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <!--<a href="https://leetcode.com/mehmetege/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>&nbsp;*/}-->
-   <a href="https://www.hackerrank.com/meaci2011"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" />
+   <!--<a href="https://www.hackerrank.com/meaci2011"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" />-->
 
 
 <hr/>
